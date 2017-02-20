@@ -146,34 +146,25 @@ body > footer li a:hover {
 	text-decoration: underline;
 }
 
-.investigation {
-	background-color: #3B57A3;
-}
-
-.construction {
-	background-color: #92255D;
-}
-
-.consolidation {
-	background-color: #668018;
-}
-
+.investigation,
+.construction,
+.consolidation,
 .passation {
-	background-color: #066F71;
+	background: #067b94;
 }
 
 .death {
-	color: #000000;
+	color: #000;
 	background-color: #767473;
 }
 
 .retirement {
-	color: #000000;
+	color: #111;
 	background-color: #b3b4b6;
 }
 
 .success {
-	color: #000000;
+	color: #222;
 	background-color: #FFD700;
 }
 

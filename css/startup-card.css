@@ -2,20 +2,11 @@
 	font-size: 80%;
 }
 
-.ui.card.investigation {
-	box-shadow: 0 0 .2em .1em #1b91a3;
-}
-
-.ui.card.construction {
-	box-shadow: 0 0 .2em .1em #067b94;
-}
-
-.ui.card.consolidation {
-	box-shadow: 0 0 .2em .1em #04677c;
-}
-
+.ui.card.investigation,
+.ui.card.construction,
+.ui.card.consolidation,
 .ui.card.passation {
-	box-shadow: 0 0 .2em .1em #067071;
+	box-shadow: 0 0 .2em .1em #067b94;
 }
 
 .ui.card.death {
